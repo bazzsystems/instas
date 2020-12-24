@@ -1,4 +1,4 @@
-
+note : sometimes the wait time makes it not work increase wait time if needed becuase it depends on you intrenet speed!
 Made by delprototype
 24/12/2020
 Tested on WIN 10
