@@ -25,7 +25,7 @@ time.sleep(2)#wait 3 sec
 
 for i in range(99999):#99999 you can change it to how much time you want it redo this process
     for i in range(5):
-        browser.find_element_by_xpath('//button[text()="Follow"]')\#finding follow buttons
+        browser.find_element_by_xpath('//button[text()="Follow"]')\
                                                                     .click()#gg wp if u didnt relize whats that
         time.sleep(1)#wait 1
     browser.refresh()#refreshing the page
